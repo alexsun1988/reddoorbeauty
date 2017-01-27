@@ -23,13 +23,13 @@
 define('DB_NAME', 'reddoorbeauty');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'adminJmebHPT');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'LcqzeUuvXHCi');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
