@@ -1,0 +1,83 @@
+body {
+  background: #530000;
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Cantarell', sans-serif;
+  line-height: 22px;
+}
+
+#formContainer {
+  
+  top: 7%;
+  right: 7%;
+  bottom: 7%;
+  left: 7%;
+  margin: auto;
+  max-width: 640px;
+  max-height: 900px;
+  
+  
+}
+
+#formHeader h3 {
+  margin: 0;
+  padding: 0.4em;
+  text-align: center;
+  font-size: 3em;
+  font-weight: 300;
+  opacity: 0.8;
+    
+}
+
+#formBody {
+  font-weight: 300;
+  font-size: 1.15em;
+}
+
+.rf_notice {
+  font-size:.7em;
+  text-align: center;
+    color: #ffffff;
+}
+
+.FlowupLabels .fl_label {
+  cursor: text;
+}
+
+.rf_submit {
+  background:none;
+  border-radius: 4px;
+  border: 1px dotted #ffffff;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 5px 25px;
+  display: block;
+  margin: auto;
+}
+.rf_submit:hover {
+  cursor:pointer;
+  background:rgba(242, 0, 0, 0.44);
+  color: #eb0707;
+}
+.rf_submit:focus {
+  outline:none;
+  border: 1px solid #ffffff;
+}
+
+#miscInfo {
+  position:fixed;
+  bottom:10px;
+  left:15px;
+  font-size: 10px;
+  color: #ffffff;
+}
+#miscInfo a {
+  color:#ffffff;
+}
+#ghBanner {
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  border: 0;
+}
+
