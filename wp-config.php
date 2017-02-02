@@ -23,16 +23,16 @@
 define('DB_NAME', 'reddoorbeauty');
 
 /** MySQL database username */
-define('DB_USER', 'adminiu61AIs');
+define('DB_USER', 'alexsun');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'ExlNS5HqhsvD');
+define('DB_PASSWORD', 'sun!2016alex%0721');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/');
+define('DB_HOST', '192.168.26.43:3306');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8mb4');
+define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
