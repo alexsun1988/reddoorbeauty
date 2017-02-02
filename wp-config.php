@@ -23,10 +23,10 @@
 define('DB_NAME', 'reddoorbeauty');
 
 /** MySQL database username */
-define('DB_USER', 'adminJmebHPT');
+define('DB_USER', 'adminiu61AIs');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'LcqzeUuvXHCi');
+define('DB_PASSWORD', 'ExlNS5HqhsvD');
 
 /** MySQL hostname */
 define('DB_HOST', 'mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/');
